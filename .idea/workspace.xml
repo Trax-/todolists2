@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68dd1bcc-5422-4c04-ab63-7c23b805b446" name="Default" comment="CVE fixes" />
+    <list default="true" id="68dd1bcc-5422-4c04-ab63-7c23b805b446" name="Default" comment="CVE fixes">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,6 +169,9 @@
       <workItem from="1591116192531" duration="151000" />
       <workItem from="1591116834178" duration="45000" />
       <workItem from="1614718818193" duration="312000" />
+      <workItem from="1626184008783" duration="18000" />
+      <workItem from="1626261425402" duration="71000" />
+      <workItem from="1626266414360" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="CVE fixes">
       <created>1591116317424</created>
@@ -180,6 +186,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -191,15 +209,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CVE fixes" />
     <option name="LAST_COMMIT_MESSAGE" value="CVE fixes" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2475" y="68" width="805" height="900" key="CommitChangelistDialog2" timestamp="1591116317325">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2475" y="68" width="805" height="900" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1591116317325" />
-    <state x="2476" y="255" width="804" height="525" key="Vcs.Push.Dialog.v2" timestamp="1591116320208">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2476" y="255" width="804" height="525" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1591116320208" />
   </component>
 </project>
