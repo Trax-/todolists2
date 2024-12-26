@@ -213,7 +213,7 @@ DEPENDENCIES
   coffee-rails
   jbuilder
   jquery-rails
-  rails
+  rails (~> 2.2.2)
   rspec-rails (~> 3.0)
   sass-rails
   sdoc
